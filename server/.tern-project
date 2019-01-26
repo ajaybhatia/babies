@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "browser",
+        "jquery",
+        "underscore"
+    ],
+    "loadEagerly": [ "*.js", "*/*.js", "*/*/*.js", "*/*/*/*.js" ],
+    "dontLoad": [ ".meteor" ],
+    "plugins": {
+        "meteor": {}
+    },
+    "requirejs": {
+        "baseURL": "./",
+        "paths": {}
+    },
+    "node": {}
+}

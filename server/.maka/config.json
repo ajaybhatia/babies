@@ -1,0 +1,30 @@
+{
+  "engines": {
+    "html": "html",
+    "js": "jsx",
+    "css": "css",
+    "api": "none",
+    "client": "react",
+    "test": "none",
+    "graphql": "none",
+    "ssr": "false"
+  },
+
+  "template": {
+    "html": "false",
+    "js": "true",
+    "css": "false",
+    "test": "true"
+  },
+  "features": {
+    "withTracker": "true"
+  },
+  "route": {
+    "controller": "",
+    "template": "true"
+  },
+
+  "generator": {
+    "comments": "true"
+  }
+}
