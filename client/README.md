@@ -1,6 +1,6 @@
-# ahps
+# Babies
 
-AHPS SAP implementation in Flutter.
+A Flutter app connected with meteor using DDP
 
 ## Getting Started
 
